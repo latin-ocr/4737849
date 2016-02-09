@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "4737849_0011.png"; bbox 0 0 1920 2893; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 413 1078 1363 1120">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 413 1078 1363 1120">
+     <span class='ocr_line' id='line_1_1' title="bbox 413 1078 1363 1120; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 413 1080 653 1119; x_wconf 84' lang='lat' dir='ltr'><strong>SPECIMEN</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 680 1078 1015 1120; x_wconf 82' lang='lat' dir='ltr'><strong>LITTERARIUM</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1044 1079 1363 1119; x_wconf 80' lang='lat' dir='ltr'><strong>INAUGURALE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 810 1267 967 1289">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 810 1267 967 1289">
+     <span class='ocr_line' id='line_1_2' title="bbox 810 1267 967 1289; baseline -0.006 0"><span class='ocrx_word' id='word_1_4' title='bbox 810 1267 967 1289; x_wconf 65' lang='lat' dir='ltr'>conum-:NS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 495 1429 1281 1474">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 495 1429 1281 1474">
+     <span class='ocr_line' id='line_1_3' title="bbox 495 1429 1281 1474; baseline -0.001 -3"><span class='ocrx_word' id='word_1_5' title='bbox 495 1429 934 1474; x_wconf 84' lang='lat' dir='ltr'><strong>OBSERVATIONES</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 965 1429 1281 1472; x_wconf 82' lang='lat' dir='ltr'><strong>NONNULLAS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 861 1597 904 1625">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 861 1597 904 1625">
+     <span class='ocr_line' id='line_1_4' title="bbox 861 1597 904 1625; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 861 1597 904 1625; x_wconf 91' lang='lat' dir='ltr'>IN</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 272 1730 1486 1788">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 272 1730 1486 1788">
+     <span class='ocr_line' id='line_1_5' title="bbox 272 1730 1486 1788; baseline 0.002 -3"><span class='ocrx_word' id='word_1_8' title='bbox 272 1730 778 1788; x_wconf 83' lang='lat' dir='ltr'>HOMERUM</span> <span class='ocrx_word' id='word_1_9' title='bbox 830 1752 915 1787; x_wconf 82' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_10' title='bbox 971 1731 1486 1788; x_wconf 83' lang='lat' dir='ltr'>SCENICOS.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
